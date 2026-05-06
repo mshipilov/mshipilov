@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет! Я Михаил 👋
 
-<!--
-**mshipilov/mshipilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Backend Разработчик | Data Science Инженер**
+📍 Новосибирск (Академгородок)
 
-Here are some ideas to get you started:
+ИТ-инженер с опытом 3+ лет. Специализируюсь на создании отказоустойчивых бэкенд-систем и внедрении AI/ML решений в бизнес-процессы. Благодаря экономическому бэкграунду (ЭФ НГУ) эффективно перевожу финансовые задачи на язык чистого и масштабируемого кода.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технологический стек
+*   **Backend:** Python (FastAPI, Flask, SQLAlchemy), REST API, SQL
+*   **Data Science & AI:** Pandas, Scikit-learn, CatBoost, LangChain (RAG/LLM), OCR
+*   **Инфраструктура:** PostgreSQL, Redis, Docker, Docker-compose, Amazon S3/RDS
+*   **Инструменты:** Pytest, Git, Linux, интеграция с внешними API
+
+### 🚀 Ключевой опыт
+*   **Финтех и аналитика:** Проектирование системы мониторинга себестоимости на производстве в реальном времени.
+*   **Внедрение ИИ:** Создание RAG-систем и LLM-агентов для автоматизации корпоративных рабочих процессов.
+*   **Оптимизация:** Сократил цикл планирования бизнеса с 10 до 2 дней за счет формализации процесса сбора и обработки данных.
+
+### 📈 Статистика GitHub
+![Mikhail's GitHub stats](https://vercel.app)
+
+### 📫 Контакты
+*   **Telegram:** [@mshipilov](https://t.me) 
+*   **Локация:** Новосибирск, Академпарк
